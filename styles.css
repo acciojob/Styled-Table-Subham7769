@@ -3,8 +3,9 @@ thead{
 	background-color:dodgerblue;
 	color:white;
 }
-tr,td{
+tr,td,th{
 	padding:10px;	
+	text-align:left;
 }
 table{
 	font-size:12px;
