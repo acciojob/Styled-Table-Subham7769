@@ -14,6 +14,3 @@ table{
 table tr:nth-child(even) {
     background: #ccc;
 }
-table tr  :nth-child(1) {
-    text-align:left;
-}
